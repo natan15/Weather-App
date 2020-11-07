@@ -1,0 +1,58 @@
+  .heading {
+    font-weight: bold;
+    font-size: 4rem;
+    letter-spacing: 0.02em;
+    padding: 0 0 30px 0;
+    color: gray;
+  }
+   
+  .top-banner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(19, 19, 49);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+  }
+   
+  .top-banner form {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .top-banner form input {
+    font-size: 2rem;
+    height: 40px;
+    padding: 5px 5px 10px;
+    border-bottom: 1px solid;
+    
+  }
+   
+   
+  .top-banner form button {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    padding: 15px 20px;
+    margin-left: 15px;
+    border-radius: 5px;
+  }
+
+  #list{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-right: 2px;
+  }
+
+  #cards{
+    padding-top: 5px;
+    background-color: honeydew;
+  }
+
+  
+   
+   
